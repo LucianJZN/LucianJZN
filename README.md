@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucianJZN
-- 👀 I'm interested in all things.
-- 🌱 I’m currently learning to live and program.
-- 💞️ I’m looking to collaborate on this Wonderlfoul World
+- 👀 I'm interested in all things
+- 🌱 I’m currently learning to live and program
+- 💞️ I’m looking to collaborate on this Wonderful World
 - 📫 How to reach me: Go to door C-137
 - 😄 Pronouns: Programmer
 - ⚡ Fun fact: ls -d .*
