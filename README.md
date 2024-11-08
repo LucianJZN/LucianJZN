@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Lucian </b></h1>
-<!-- <img align="right" width=300px alt="meme2" src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" /> -->
-
+ <img align="right" width=300px alt="meme2" src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" /> 
+<!---->
 
 ***About me***
 
